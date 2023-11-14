@@ -2,7 +2,7 @@
 const perros = [
     {   // Propiedades del perro
         id:1,
-        nombre: 'TOTO',
+        nombre: 'RAMON',
         imagen: 'img/img_galeria/Field Spaniel.jpg',
         raza: 'Field Spaniel',
         edad: 12,
